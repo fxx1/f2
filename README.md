@@ -1,2 +1,9 @@
-# f2
-java
+软件安装教程
+===
+1.[vm安装](vm.md)<br>
+2.[oracle11g安装](oracle11g.md)<br>
+3.[plsqldeveloper安装](plsqldeveloper.md)<br>
+4.[markdown安装](markdown.md)<br>
+5.[github](github.md)<br>
+6.[gitbash安装](gitbash.md)<br>
+7.[awesomium安装](awesomium.md)<br>
