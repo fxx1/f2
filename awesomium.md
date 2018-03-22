@@ -1,0 +1,12 @@
+awesomium安装
+====
+1.双击该图标进行安装<br>
+![](img7/1.png)
+2.![](img7/2.png)
+3.![](img7/3.png)
+4.![](img7/4.png)
+5.![](img7/5.png)
+6.![](img7/6.png)
+7.![](img7/7.png)
+8.![](img7/8.png)
+9.安装完成。<br>
