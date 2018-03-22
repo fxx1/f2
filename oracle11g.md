@@ -16,7 +16,8 @@ oracle11g安装
 14.![](img2/14.png)
 15.![](img2/15.png)
 16.![](img2/16.png)
-17.输入网址：https://localhost:1158/em/并使用system+刚才设置的密码登陆验证是以下效果<br>
+17.输入网址：https://localhost:1158/em/<br>
+使用system+刚才设置的密码登陆验证是以下效果<br>
 18.![](img2/17.png)
 19.![](img2/18.png)
 20.![](img2/19.png)
