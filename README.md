@@ -7,3 +7,8 @@
 5.[github](github.md)<br>
 6.[gitbash安装](gitbash.md)<br>
 7.[awesomium安装](awesomium.md)<br>
+8.[测试函数文档](test.md)<br>
+9.[学习笔记](学习笔记.md)<br>
+10.[TortoiseSVN安装](TortoiseSVN安装.md)<br>
+11.[typora安装目录](typora安装目录.md)<br>
+12.[JDK8安装目录](JDK8安装.md)<br>

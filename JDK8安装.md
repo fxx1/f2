@@ -1,0 +1,12 @@
+JDK8安装
+====
+1.![](img12/1.png)<br>
+2.![](img12/2.png)<br>
+3.![](img12/3.png)<br>
+4.![](img12/4.png)<br>
+5.![](img12/5.png)<br>
+6.![](img12/6.png)<br>
+7.![](img12/7.png)<br>
+8.![](img12/8.png)<br>
+9.![](img12/9.png)<br>
+10.这样jdk8安装就完成了.<br>
